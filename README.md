@@ -43,18 +43,17 @@ your-project-name/
 
 ## [**Title Page & Authors**](docs/documentation.md#title-page-authors)
 ```
-[Insert Title Here]
+# ANALYZING THE IMPACT OF ECONOMIC INDICATORS ON UNEMPLOYMENT RATES USING NEURAL NETWORKS: A CASE STUDY OF JORDAN AND SELECTED ARAB COUNTRIES
 
 Authors
-- [Student Name], [Student Number]
-- [Student Name], [Student Number]
+- Ayham Altamimi, 202210902
 
-Supervised by: [Supervisor Name]
+Supervised by: Prof. Dr. Ayman Mansour
 
 Course: 307498 – Graduation Project
-Semester: First Semester, 2025/2026
+Semester: Second Semester, 2025/2026
 
-Date: [Submission Date]
+Date: June 2026
 ```
 
 ## [Table of Content](docs.domcumentation.md#table-of-content) 
@@ -76,10 +75,7 @@ Date: [Submission Date]
 
 
 ## [**Abstract**](docs/documentation.md#abstract)
-A concise summary of your project (2-3 paragraphs):
-- 1 paragraph: Introduction and objectives
-- 1 paragraph: Implementation approach and methods
-- 1 paragraph: Key results and findings
+This study aims to analyze the relationship between multi-dimensional economic indicators and unemployment rates in Jordan, alongside a comparative analysis of selected Arab countries, including Egypt, Lebanon, Morocco, and Tunisia. Given the increasing economic challenges in the region, understanding the drivers of unemployment is crucial for informed policymaking. The research utilizes a Business Intelligence (BI) approach, leveraging a longitudinal dataset of 21 variables sourced from the World Bank (1960–2025). Central to this study is the implementation of advanced Artificial Intelligence (AI) algorithms, specifically Artificial Neural Networks (ANN), to identify complex, non-linear patterns and predict future unemployment trends. These indicators encompass macroeconomic factors such as GDP growth, Inflation, and FDI, as well as structural drivers including High-Technology Exports, ICT services, and Energy Imports. By employing Machine Learning (ML) techniques, the model provides a higher predictive accuracy compared to traditional statistical methods. Preliminary findings suggest that technological advancement and educational investment play a significant role in mitigating unemployment spikes. The study concludes with strategic, data-driven recommendations to foster economic resilience and labor market stability in Jordan and the region.
 
 ## [**Acknowledgment**](docs/documentation.md#acknowledgment)
 Acknowledge individuals and organizations that supported your project.
