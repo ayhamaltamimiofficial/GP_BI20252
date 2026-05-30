@@ -8,7 +8,7 @@ from tensorflow.keras.layers import Dense
 from sklearn.metrics import r2_score, mean_absolute_error
 
 # 1. Loading the dataset
-# Ensure your file is named 'Ayham Altamimi Graduation Project.csv' and uploaded to Google Colab
+# Ensure your file is named 'Ayham Altamimi Graduation Project.csv' 
 try:
     df = pd.read_csv('/Ayham Altamimi Graduation Project.csv')
     print("Dataset loaded successfully.")
